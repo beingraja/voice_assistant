@@ -1,3 +1,5 @@
+#NOTE : EDIT FOLDERS IN CODE BRFORE USE AS THEY ARE MY FOLDERS
+
 import os 
 import pyttsx3
 import speech_recognition as sr
