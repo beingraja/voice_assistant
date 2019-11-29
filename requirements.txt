@@ -1,0 +1,17 @@
+REQUIREMENTS 
+
+NOTE : EDIT FOLDERS IN CODE BRFORE USE AS THEY ARE MY FOLDERS 
+
+1.python any new version 
+2.internet acess
+
+python MODLULE REQUIRED :-
+
+pip install pyttsx3
+pip installl speech_recognition 
+pip install webbrowser 
+pip install shutil
+pip install wikipedia
+pip install PIL
+pip install google_images _download 
+
