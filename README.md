@@ -2,7 +2,7 @@
 This is the simple voice_assistant and it can be used for simple purposes . My first github repository.
 this is under progress and will be updated any  time .
 
-#WHAT IT CAN DO 
+WHAT IT CAN DO :-
 1.listen you voice and speaks 
 2.wishes you (ex. sood morning sir)
 3.Opens any website 
