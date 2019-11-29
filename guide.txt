@@ -1,0 +1,14 @@
+To use this follow it :
+
+Run it with internet access
+
+First install python and all required modules mentioned in a this file named requirements.py
+
+1.HELLO :- run the program and say hello on your mic.
+2.OPEN WEBSITE :- say open with the website name ex.open facebook
+3.WIKIPEDIA INFORMATION :- say anything or any name with word wikkipedia ex.salman khan wikipedia 
+4.SHOW IMAGES :- say show images then it will ask for image name then say image name 
+5.NOTE SOMETHING :- say something to noite with keyword note that 
+6.REMIND NOTED :- say something about you noted word then it will tell what you told
+
+ TO STOP IT SAY IT BYE TWO TIMES .
