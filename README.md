@@ -15,5 +15,4 @@ WHAT IT CAN DO :-
 This can be operated by some special keyword and i had a text file on this repository that will guide you how to use it.
 
 a voice assistant by 
-being raja
 kunal kushwaha 
